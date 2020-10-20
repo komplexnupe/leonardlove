@@ -18,10 +18,10 @@ text-align: center;
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
     .phil {
-      margin-top: 94px;
+      margin-top: 95px;
      
     }
     .skill {
-        margin-top: 14px
+        margin-top: 15px
     }
   }
