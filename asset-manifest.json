@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/leonardlove/static/css/main.52818730.chunk.css",
-    "main.js": "/leonardlove/static/js/main.edeff67d.chunk.js",
-    "main.js.map": "/leonardlove/static/js/main.edeff67d.chunk.js.map",
+    "main.css": "/leonardlove/static/css/main.e442d709.chunk.css",
+    "main.js": "/leonardlove/static/js/main.17d95508.chunk.js",
+    "main.js.map": "/leonardlove/static/js/main.17d95508.chunk.js.map",
     "runtime-main.js": "/leonardlove/static/js/runtime-main.fc0e3cae.js",
     "runtime-main.js.map": "/leonardlove/static/js/runtime-main.fc0e3cae.js.map",
     "static/css/2.fa8fa158.chunk.css": "/leonardlove/static/css/2.fa8fa158.chunk.css",
-    "static/js/2.c827dec9.chunk.js": "/leonardlove/static/js/2.c827dec9.chunk.js",
-    "static/js/2.c827dec9.chunk.js.map": "/leonardlove/static/js/2.c827dec9.chunk.js.map",
+    "static/js/2.a05affc9.chunk.js": "/leonardlove/static/js/2.a05affc9.chunk.js",
+    "static/js/2.a05affc9.chunk.js.map": "/leonardlove/static/js/2.a05affc9.chunk.js.map",
     "index.html": "/leonardlove/index.html",
-    "precache-manifest.66000a1532bb254582f4b555f08c0cd3.js": "/leonardlove/precache-manifest.66000a1532bb254582f4b555f08c0cd3.js",
+    "precache-manifest.6c2d903282947fabc085dac4592146ca.js": "/leonardlove/precache-manifest.6c2d903282947fabc085dac4592146ca.js",
     "service-worker.js": "/leonardlove/service-worker.js",
     "static/css/2.fa8fa158.chunk.css.map": "/leonardlove/static/css/2.fa8fa158.chunk.css.map",
-    "static/css/main.52818730.chunk.css.map": "/leonardlove/static/css/main.52818730.chunk.css.map",
-    "static/js/2.c827dec9.chunk.js.LICENSE.txt": "/leonardlove/static/js/2.c827dec9.chunk.js.LICENSE.txt",
+    "static/css/main.e442d709.chunk.css.map": "/leonardlove/static/css/main.e442d709.chunk.css.map",
+    "static/js/2.a05affc9.chunk.js.LICENSE.txt": "/leonardlove/static/js/2.a05affc9.chunk.js.LICENSE.txt",
     "static/media/App.css": "/leonardlove/static/media/Black-website-background-black.fc263a4b.jpg",
     "static/media/mdb.css": "/leonardlove/static/media/arrow_right.8ef6a08c.svg",
     "static/media/bloc.jpg": "/leonardlove/static/media/bloc.1247b927.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc0e3cae.js",
     "static/css/2.fa8fa158.chunk.css",
-    "static/js/2.c827dec9.chunk.js",
-    "static/css/main.52818730.chunk.css",
-    "static/js/main.edeff67d.chunk.js"
+    "static/js/2.a05affc9.chunk.js",
+    "static/css/main.e442d709.chunk.css",
+    "static/js/main.17d95508.chunk.js"
   ]
 }
