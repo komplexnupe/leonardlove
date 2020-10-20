@@ -26,7 +26,7 @@ const Projects = () => {
             <p className="grey-text">
               A personality assessment made fun with a cocktail drink pairing at the end!
             </p>
-            <MDBBtn className="align-self-end p-2" gradient="blue" size="sm">
+            <MDBBtn href="https://oksimone.github.io/cocktellme/" className="align-self-end p-2" gradient="blue" size="sm">
               <MDBIcon far icon="clone" className="left" /> View project
             </MDBBtn>
           </MDBCardBody>
@@ -48,7 +48,7 @@ const Projects = () => {
             <p className="grey-text">
             A modern e-commerce site designed for fashion forward fitness enthusiasts.
             </p>
-            <MDBBtn className="align-self-end p-2" gradient="blue" size="sm">
+            <MDBBtn href="https://saint-george.herokuapp.com/" className="align-self-end p-2" gradient="blue" size="sm">
               <MDBIcon far icon="clone" className="left" /> View project
             </MDBBtn>
           </MDBCardBody>
@@ -71,7 +71,7 @@ const Projects = () => {
             <p className="grey-text">
               Simple app designed to help users find socially safe outdoor fitness activities.
             </p>
-            <MDBBtn className="align-self-end p-2" gradient="blue" size="sm">
+            <MDBBtn href="https://fitlink22.herokuapp.com/" className="align-self-end p-2" gradient="blue" size="sm">
               <MDBIcon far icon="clone" className="left" /> View project
             </MDBBtn>
           </MDBCardBody>
