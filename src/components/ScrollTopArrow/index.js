@@ -17,6 +17,7 @@ const ScrollTopArrow = () => {
   };
 
   const scrollTop = () =>{
+    window.location.href = "#home"
     window.scrollTo({top: 0, behavior: 'smooth'});
   };
 
