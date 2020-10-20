@@ -15,6 +15,13 @@ text-align: center;
     width: 80%;
 }
 
-.about {
-    /* height: 300px; */
-}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .phil {
+      margin-top: 94px;
+     
+    }
+    .skill {
+        margin-top: 14px
+    }
+  }

@@ -15,11 +15,14 @@ const About = () => {
                             <MDBRow>
                                 <MDBCol className="p-3 mt-5 mb-3 bcg"><h4>"I knew my Google-Fu would come in handy."</h4></MDBCol>
                             </MDBRow>
-                            <MDBRow>
+                            <MDBRow className="phil">
                                 <MDBCol className="p-3 mb-3 bcg"><h4>Challenge yourself to learn something new, everyday.</h4></MDBCol>
                             </MDBRow>
-                            <MDBRow>
+                            <MDBRow className="phil">
                                 <MDBCol className="p-3 mb-3 bcg"><h4><strong className="accent">A</strong>lways <strong className="accent">B</strong>e <strong className="accent">C</strong>oding.</h4></MDBCol>
+                            </MDBRow>
+                            <MDBRow className="phil">
+                                <MDBCol className="p-3 mb-3 bcg"><h4>"If the plan doesn't work, change the plan, not the goal."</h4></MDBCol>
                             </MDBRow>
                         </MDBCol>
                     </MDBRow>
@@ -77,19 +80,19 @@ const About = () => {
                                 <MDBCol className="p-3 mt-5 mb-3 bcg"><h4><strong>Front:</strong><br />
                                 JavaScript, HTML, CSS</h4></MDBCol>
                             </MDBRow>
-                            <MDBRow>
+                            <MDBRow className="skill">
                                 <MDBCol className="p-3 mb-3 bcg"><h4><strong>Back:</strong><br />
                                 Node, REST, JSON</h4></MDBCol>
                             </MDBRow>
-                            <MDBRow>
+                            <MDBRow className="skill">
                                 <MDBCol className="p-3 mb-3 bcg"><h4><strong>Databases:</strong><br />
                                 MySQL, MongoDB</h4></MDBCol>
                             </MDBRow>
-                            <MDBRow>
+                            <MDBRow className="skill">
                                 <MDBCol className="p-3 mb-3 bcg"><h4><strong>Libraries/Frameworks:</strong><br />
                                 React, jQuery, Express, NPM, Yarn, Bootstrap</h4></MDBCol>
                             </MDBRow>
-                            <MDBRow>
+                            <MDBRow className="skill">
                                 <MDBCol className="p-3 mb-3 bcg"><h4><strong>Other:</strong><br />
                                 Object Oriented Programming, GIT version control, Agile, MVC, Heroku, Chrome Dev Tools, CLI</h4></MDBCol>
                             </MDBRow>
