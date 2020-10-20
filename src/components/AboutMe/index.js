@@ -30,7 +30,7 @@ const About = () => {
                     </MDBRow>
                     <MDBRow>
                         <MDBCol className="p-5" md='12'>
-                            <MDBCard style={{height: 705}}>
+                            <MDBCard style={{height: 750}}>
                                 <MDBCardImage
                                     hover
                                     overlay='black-light'
@@ -44,7 +44,7 @@ const About = () => {
                                         <strong>Leonard Love</strong>
                                     </MDBCardTitle> */}
 
-                                    <p className='font-weight-bold blue-text'>Running towards the challenge.</p>
+                                    <p className='font-weight-normal blue-text'>Running towards the challenge.</p>
 
                                     <MDBCardText>
                                     Technology continues to shape our lives in the coolest and most convenient ways. I want to be a part of and leave my mark on the future of mankind by being a part of a group
