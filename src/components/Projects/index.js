@@ -17,7 +17,7 @@ const Projects = () => {
             />
             <a href="https://komplexnupe.github.io/cocktellme/"
         target="_blank" rel="noopener noreferrer">
-              <MDBMask overlay="white-slight" />
+              <MDBMask overlay="black-light" />
             </a>
           </MDBView>
           <MDBCardBody className="pb-0">
@@ -39,7 +39,7 @@ const Projects = () => {
               className="projectImg"
             />
             <a href="#!">
-              <MDBMask overlay="white-slight" />
+              <MDBMask overlay="black-light" />
             </a>
           </MDBView>
           <MDBCardBody className="pb-0">
@@ -62,7 +62,7 @@ const Projects = () => {
             />
             <a href="https://fitlink22.herokuapp.com/"
         target="_blank" rel="noopener noreferrer">
-              <MDBMask overlay="white-slight" />
+              <MDBMask overlay="black-light" />
             </a>
           </MDBView>
           <MDBCardBody className="pb-0">
