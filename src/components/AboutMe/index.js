@@ -4,7 +4,7 @@ import './style.css'
 
 const About = () => {
     return (
-        <MDBContainer className="mb-5" id="About">
+        <MDBContainer className="mb-5" id="About" style={{marginTop: 500}}>
             <MDBRow>
                 <MDBCol className="ml-1">
                     <MDBRow className="blue-gradient">
