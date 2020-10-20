@@ -30,7 +30,7 @@ const About = () => {
                     </MDBRow>
                     <MDBRow>
                         <MDBCol className="p-5" md='12'>
-                            <MDBCard style={{height: 695}}>
+                            <MDBCard style={{height: 705}}>
                                 <MDBCardImage
                                     hover
                                     overlay='black-light'
