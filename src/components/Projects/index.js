@@ -6,7 +6,13 @@ import './style.css'
 const Projects = () => {
   return (
     <section id="projects" style={{ marginTop: 150, marginBottom: 150 }}>
-      <h1 className="text-white text-center mb-4">My Work</h1>
+      <MDBRow className="mb-4">
+      <MDBCol></MDBCol>
+      <MDBCol className="blue-gradient" md="5">
+      <h1 className="text-white text-center">My Work</h1>
+      </MDBCol>
+      <MDBCol></MDBCol>
+      </MDBRow>
       <MDBRow className="text-center ml-1 mr-1">
         <MDBCol lg="4" md="12" className="mb-lg-0 mb-4">
           <MDBView className="overlay rounded z-depth-1" waves>
