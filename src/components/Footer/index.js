@@ -7,11 +7,11 @@ const Footer = () => {
     return (
         <div className="footer">
         <h4>
-            <a href="mailto:leonard.love87@icloud.com" hover><i class="fas fa-envelope-square" style={{ fontSize: 36 }}></i></a>
+            <a href="mailto:leonard.love87@icloud.com" hover><i class="fas fa-envelope-square" style={{ fontSize: 36 }}></i>Contact</a>
             <span> | </span>
-            <a href="https://www.linkedin.com/in/leonardlove/" hover target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin" style={{ fontSize: 36 }}></i></a>
+            <a href="https://www.linkedin.com/in/leonardlove/" hover target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin" style={{ fontSize: 36 }}></i>LinkedIn</a>
             <span> | </span>
-            <a href="https://github.com/komplexnupe" target="_blank" rel="noopener noreferrer"><i class="fab fa-github-square" style={{ fontSize: 36 }}></i></a>
+            <a href="https://github.com/komplexnupe" target="_blank" rel="noopener noreferrer"><i class="fab fa-github-square" style={{ fontSize: 36 }}></i>Github Repo</a>
             </h4>
  </div>
 )

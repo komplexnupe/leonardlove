@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBBtn, MDBIcon, MDBCardImage } from 'mdbreact';
+import { MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody, MDBCardText, MDBCardImage } from 'mdbreact';
 import './style.css'
 
 const About = () => {
@@ -50,8 +50,8 @@ const About = () => {
                                     <p className='font-weight-normal blue-text'>Running towards the challenge.</p>
 
                                     <MDBCardText>
-                                    Technology continues to shape our lives in the coolest and most convenient ways. I want to be a part of and leave my mark on the future of mankind by being a part of a group
-                                    of people who accepted the challenge of shifting society forward with technology. I'm excited to work with great people to build solutions of the future.{' '}
+                                    Technology continues to shape our lives in the coolest and most convenient ways. I want to be a part of creating the future of mankind by being a part of a group
+                                    of people who accepted the challenge of shifting society forward with technology. I'm looking forward to growing daily and working with great people to build solutions of the future.{' '}
                                     </MDBCardText>
 
                                     <MDBCol md='12' className='d-flex justify-content-center'>
