@@ -33,7 +33,10 @@ const Projects = () => {
               A personality assessment made fun with a cocktail drink pairing at the end!
             </p>
             <MDBBtn href="https://oksimone.github.io/cocktellme/" target="_blank" rel="noopener noreferrer" className="align-self-end p-2" gradient="blue" size="sm">
-              <MDBIcon far icon="clone" className="left" /> View project
+              <MDBIcon fas icon="external-link-alt" className="left" /> View project
+            </MDBBtn>
+            <MDBBtn href="https://github.com/komplexnupe/cocktellme" target="_blank" rel="noopener noreferrer" className="align-self-end p-2" gradient="blue" size="sm">
+              <MDBIcon fab icon="github" className="left" /> Github repo
             </MDBBtn>
           </MDBCardBody>
         </MDBCol>
@@ -55,7 +58,10 @@ const Projects = () => {
               A modern e-commerce site designed for fashion forward fitness enthusiasts.
             </p>
             <MDBBtn href="https://saint-george.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="align-self-end p-2" gradient="blue" size="sm">
-              <MDBIcon far icon="clone" className="left" /> View project
+              <MDBIcon fas icon="external-link-alt" className="left" /> View project
+            </MDBBtn>
+            <MDBBtn href="https://github.com/komplexnupe/saint-george" target="_blank" rel="noopener noreferrer" className="align-self-end p-2" gradient="blue" size="sm">
+              <MDBIcon fab icon="github" className="left" /> Github repo
             </MDBBtn>
           </MDBCardBody>
         </MDBCol>
@@ -79,7 +85,10 @@ const Projects = () => {
               Simple app designed to help users find socially safe outdoor fitness activities.
             </p>
             <MDBBtn href="https://fitlink22.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="align-self-end p-2" gradient="blue" size="sm">
-              <MDBIcon far icon="clone" className="left" /> View project
+              <MDBIcon fas icon="external-link-alt" className="left" /> View Demo
+            </MDBBtn>
+            <MDBBtn href="https://github.com/komplexnupe/fitLink-LL" target="_blank" rel="noopener noreferrer" className="align-self-end p-2" gradient="blue" size="sm">
+              <MDBIcon fab icon="github" className="left" /> Github repo
             </MDBBtn>
           </MDBCardBody>
         </MDBCol>
