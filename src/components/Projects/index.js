@@ -68,7 +68,7 @@ const Projects = () => {
         <MDBCol lg="4" md="12" className="mb-lg-0 mb-4">
           <MDBView className="overlay rounded z-depth-1" waves>
             <img
-              src={require('../../images/fitlink.png')}
+              src={require('../../images/fitLink.png')}
               alt=""
               className="projectImg"
               target="_blank" rel="noopener noreferrer"
